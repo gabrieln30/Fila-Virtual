@@ -10,7 +10,6 @@ Sistema web para gerenciamento de fila de usuários, permitindo que cada pessoa 
 - PostgreSQL  
 - Servidor web (Apache, Nginx, XAMPP ou WAMP)  
 - pgAdmin ou outro Query Tool do PostgreSQL  
-- Navegador web atualizado  
 
 ---
 ```
