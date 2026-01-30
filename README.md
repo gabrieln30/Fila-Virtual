@@ -21,7 +21,6 @@ FilaVirtual/
 ├── PosicaoFila.php # Tela que mostra a posição na fila
 ├── TelaAdm.php # Painel do administrador
 ├── mandarEmail.php # Envio de e-mails (opcional)
-└── README.md
 
 ```
 ---
