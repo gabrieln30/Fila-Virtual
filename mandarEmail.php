@@ -8,9 +8,6 @@ use PHPMailer\PHPMailer\Exception;
 
 
 function sendCallEmail(string $toEmail, string $toName): array {
-    
-    
-
 
 
     $smtpUser = 'filavirtualetesc@gmail.com';
@@ -73,3 +70,4 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['email'])) {
 }
 
 ?>
+
