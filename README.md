@@ -48,7 +48,7 @@ $user = 'postgres';
 $password = 'admin';
 
 ```
-## ▶️ Como Utilizar o Sistema (Usuário)
+## ▶️ (Usuário)
 
 1. Acesse o sistema pelo navegador:
 http://localhost/FilaVirtual/index.php
@@ -76,7 +76,7 @@ PosicaoFila.php
 
 ---
 
-## 🧑‍💼 Como Utilizar o Sistema (Administrador)
+## 🧑‍💼 (Administrador)
 
 1. Acesse o painel administrativo:
 http://localhost/FilaVirtual/TelaAdm.php
