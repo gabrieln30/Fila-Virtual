@@ -20,7 +20,7 @@ FilaVirtual/
 ├── index.php # Tela inicial / entrada do usuário
 ├── PosicaoFila.php # Tela que mostra a posição na fila
 ├── TelaAdm.php # Painel do administrador
-├── mandarEmail.php # Envio de e-mails (opcional)
+└── mandarEmail.php # Envio de e-mails (opcional)
 
 ```
 ---
